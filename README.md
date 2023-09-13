@@ -1,7 +1,5 @@
 # SpringWoods
 
-# Project Name
-
 This is a simple project in initial phase where a basic template is used and which covers all the features that needed to run the society !!
 
 # Project Installation Guide
